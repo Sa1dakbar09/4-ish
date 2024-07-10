@@ -1,0 +1,27 @@
+.h1 {
+    border-top: 8px solid blue;
+    border-left: 8px solid blue;
+    border-right: 8px solid blue;
+    border-bottom: 8px solid blue;
+}
+
+.h2 {
+    border-top: 8px solid blue;
+    border-left: 8px solid orange;
+    border-right: 8px solid orange;
+    border-bottom: 8px solid blue;
+}
+
+.h3 {
+    border-top: 8px solid blue;
+    border-left: 8px solid orange;
+    border-right: 8px solid orange;
+    border-bottom: 8px solid red;
+}
+
+.h4 {
+    border-top: 8px solid blue;
+    border-left: 8px solid green;
+    border-right: 8px solid orange;
+    border-bottom: 8px solid red;
+}
